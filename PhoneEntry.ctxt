@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PhoneEntry()
+comment1.params=name\ phoneNumber
+comment1.target=PhoneEntry(java.lang.String,\ java.util.ArrayList)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=phoneNumber
+comment3.target=void\ setPhoneNumber(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.util.ArrayList\ getPhoneNumber()
+comment6.params=phoneNumber
+comment6.target=boolean\ addPhoneNumber(java.lang.String)
+comment7.params=phoneNumber
+comment7.target=boolean\ deletePhoneNumber(java.lang.String)
+comment8.params=phoneNumber
+comment8.target=boolean\ isDuplicatePhoneNumber(java.util.ArrayList)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
